@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:11
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.890000,https://github.com/dkjgjdsvkjdg/post-time-lock-encrypt/blob/main/BAN.mp41.ts?raw=true
-#EXTINF:9.900000,https://github.com/dkjgjdsvkjdg/post-time-lock-encrypt/blob/main/BAN.mp41.ts?raw=true
-#EXTINF:9.206311,https://github.com/dkjgjdsvkjdg/post-time-lock-encrypt/blob/main/BAN.mp42.ts?raw=true
+#EXTINF:10.890000,https://raw.githubusercontent.com/dkjgjdsvkjdg/post-time-lock-encrypt/main/BAN.mp41.ts
+#EXTINF:9.900000,https://raw.githubusercontent.com/dkjgjdsvkjdg/post-time-lock-encrypt/main/BAN.mp41.ts
+#EXTINF:9.206311,https://raw.githubusercontent.com/dkjgjdsvkjdg/post-time-lock-encrypt/main/BAN.mp42.ts
 #EXT-X-ENDLIST
